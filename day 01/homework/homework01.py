@@ -1,9 +1,9 @@
-name = "giorgi"
+name = 'nika'
 print(name)
-surname = "merabishvili"
+surname = "fkhakadze"
 print(surname)
 
-age = 14
+age = 11
 height = 175
 
 knows_programming = False
